@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "age": 28
+      },
+      {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "age": 34
+      },
+      {
+        "id": 3,
+        "name": "Carol White",
+        "email": "carol.white@example.com",
+        "age": 22
+      },
+      {
+        "id": 4,
+        "name": "David Brown",
+        "email": "david.brown@example.com",
+        "age": 45
+      },
+      {
+        "id": 5,
+        "name": "Emma Wilson",
+        "email": "emma.wilson@example.com",
+        "age": 31
+      },
+      {
+        "id": 6,
+        "name": "Frank Harris",
+        "email": "frank.harris@example.com",
+        "age": 29
+      },
+      {
+        "id": 7,
+        "name": "Grace Lee",
+        "email": "grace.lee@example.com",
+        "age": 37
+      },
+      {
+        "id": 8,
+        "name": "Henry Clark",
+        "email": "henry.clark@example.com",
+        "age": 26
+      },
+      {
+        "id": 9,
+        "name": "Isabella Martinez",
+        "email": "isabella.martinez@example.com",
+        "age": 24
+      },
+      {
+        "id": 10,
+        "name": "Jack Thompson",
+        "email": "jack.thompson@example.com",
+        "age": 40
+      }
+  ]
+}
+  
